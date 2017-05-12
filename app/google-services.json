@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "378626287573",
+    "firebase_url": "https://dinner-94287.firebaseio.com",
+    "project_id": "dinner-94287",
+    "storage_bucket": "dinner-94287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378626287573:android:e594dca5c57a53d3",
+        "android_client_info": {
+          "package_name": "htl.at.dinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378626287573-c18csov6aq8bk0r13ji01c9cviacg081.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "htl.at.dinner",
+            "certificate_hash": "19e137f1d3f09f06f2bd68e13d15ae2cc7bd7f2d"
+          }
+        },
+        {
+          "client_id": "378626287573-groi3vc6vsbajmualr83jn3b097gp484.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6uRhGPvlR_DNnz7Jj7dtC5jKFAyiVWJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378626287573-groi3vc6vsbajmualr83jn3b097gp484.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
